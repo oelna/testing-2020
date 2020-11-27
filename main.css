@@ -1,11 +1,3 @@
 * {
 	box-sizing: border-box;
 }
-
-html {
-	font: 100%/1.4 -system-ui, Helvetica, Arial, sans-serif;
-}
-
-body {
-	line-height: 1;
-}
